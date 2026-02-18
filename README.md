@@ -16,20 +16,6 @@ This project demonstrates clean software architecture, separating **business log
 
 ---
 
-## **Project Structure**
-
-BankingMVC/
-
-├──
-model.h # Handles business logic and data
-├──
-view.h # Handles all user input/output
-├──
-controller.h # Connects Model and View
-└──
-main.cpp # Entry point of the application
-
-
 
 - **Model:** Handles all account data and calculations  
 - **View:** Displays menus, prompts, and results to the user  
