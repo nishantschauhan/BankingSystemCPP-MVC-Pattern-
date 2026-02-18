@@ -23,7 +23,7 @@ This project demonstrates clean software architecture, separating **business log
 
 ---
 
-BankingMVC/                    # Root folder of your project
+BankingMVC/                    
 
     ├── README.md              # Project description 
     ├── main.cpp               # Entry point of the application
